@@ -1,0 +1,5 @@
+const staticAssets = [
+    './',
+    'css/*',
+    'js/*' 
+];
